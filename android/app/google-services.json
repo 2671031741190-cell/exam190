@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1004990183020",
+    "project_id": "finalexam-190",
+    "storage_bucket": "finalexam-190.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004990183020:android:1e3af03454c9a81d308a49",
+        "android_client_info": {
+          "package_name": "com.example.socalert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1-X73hLb_pZjMXB-dGh_bvs7e8-blOQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
